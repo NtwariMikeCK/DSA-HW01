@@ -17,8 +17,13 @@ Key features:
 Clone this repository and ensure you have Node.js installed.
 
 ```bash
-git clone https://github.com/yourusername/uniqueint.git
+git clone https://github.com/NtwariMikeCK/DSA-HWO1.git
 cd uniqueint
+```
+
+Go to the directory with codes
+```bash
+cd code
 ```
 
 ## Usage
@@ -29,6 +34,7 @@ Run the utility with an input file:
 
 ```bash
 node UniqueInt.js <inputFileName>
+ex: node UniqueInt.js easy_sample_01_1.txt
 ```
 
 The program will:
